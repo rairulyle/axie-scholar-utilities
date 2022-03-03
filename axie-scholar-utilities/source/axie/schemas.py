@@ -38,7 +38,6 @@ payments_schema = {
                     },
                     "ScholarPayout": {
                         "type": "number",
-                        "minimum": 1
                     },
                     "TrainerPayoutAddress": {
                         "type": "string",
@@ -126,7 +125,6 @@ payments_percent_schema = {
                     },
                     "ScholarPayout": {
                         "type": "number",
-                        "minimum": 1
                     },
                     "ScholarPercent": {
                         "type": "number",
